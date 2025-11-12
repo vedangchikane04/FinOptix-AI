@@ -1,0 +1,14 @@
+artifact_uri: file:D:/LABMENTIX/Finoptix_AI/mlruns/243064382643128006/2756f03defb842ceac5930c8c3e5d54b/artifacts
+end_time: 1762961986542
+entry_point_name: ''
+experiment_id: '243064382643128006'
+lifecycle_stage: active
+run_id: 2756f03defb842ceac5930c8c3e5d54b
+run_name: Classification_Logistic Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762961953457
+status: 3
+tags: []
+user_id: admin

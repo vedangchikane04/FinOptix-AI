@@ -1,0 +1,10 @@
+artifact_location: file:D:/LABMENTIX/Finoptix_AI/mlruns/243064382643128006/models/m-221ef0db83c84ed5af31da6c5955df34/artifacts
+creation_timestamp: 1762962162474
+experiment_id: '243064382643128006'
+last_updated_timestamp: 1762962169766
+model_id: m-221ef0db83c84ed5af31da6c5955df34
+model_type: null
+name: regression_linear_regression
+source_run_id: 86ff3918bc5745d6a15ba7d77ec0bf0e
+status: 2
+status_message: null

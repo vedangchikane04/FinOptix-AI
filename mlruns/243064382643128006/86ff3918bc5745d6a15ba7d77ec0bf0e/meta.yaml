@@ -1,0 +1,14 @@
+artifact_uri: file:D:/LABMENTIX/Finoptix_AI/mlruns/243064382643128006/86ff3918bc5745d6a15ba7d77ec0bf0e/artifacts
+end_time: 1762962169788
+entry_point_name: ''
+experiment_id: '243064382643128006'
+lifecycle_stage: active
+run_id: 86ff3918bc5745d6a15ba7d77ec0bf0e
+run_name: Regression_Linear Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762962162185
+status: 3
+tags: []
+user_id: admin

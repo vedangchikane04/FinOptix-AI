@@ -1,0 +1,10 @@
+artifact_location: file:D:/LABMENTIX/EMI_Predict_AI/mlruns/254778335269009417/models/m-5be42fdab5c34465ba9c0792c90bbdd1/artifacts
+creation_timestamp: 1762958473936
+experiment_id: '254778335269009417'
+last_updated_timestamp: 1762958478234
+model_id: m-5be42fdab5c34465ba9c0792c90bbdd1
+model_type: null
+name: regression_random_forest
+source_run_id: c73dd006b531490194b327bc218868d7
+status: 2
+status_message: null

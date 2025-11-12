@@ -1,0 +1,10 @@
+artifact_location: file:D:/LABMENTIX/Finoptix_AI/mlruns/243064382643128006/models/m-73ee98f7dfa24e4fbdbd1a10bb6c7fa4/artifacts
+creation_timestamp: 1762961970572
+experiment_id: '243064382643128006'
+last_updated_timestamp: 1762961986508
+model_id: m-73ee98f7dfa24e4fbdbd1a10bb6c7fa4
+model_type: null
+name: classification_logistic_regression
+source_run_id: 2756f03defb842ceac5930c8c3e5d54b
+status: 2
+status_message: null

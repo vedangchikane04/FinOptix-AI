@@ -1,0 +1,10 @@
+artifact_location: file:D:/LABMENTIX/Finoptix_AI/mlruns/243064382643128006/models/m-939571cdc4bc4d9eb3ec8f58f548d660/artifacts
+creation_timestamp: 1762962172838
+experiment_id: '243064382643128006'
+last_updated_timestamp: 1762962178582
+model_id: m-939571cdc4bc4d9eb3ec8f58f548d660
+model_type: null
+name: regression_decision_tree
+source_run_id: 474cbf180332454aa67b7342efc15e12
+status: 2
+status_message: null

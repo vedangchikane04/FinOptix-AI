@@ -1,0 +1,14 @@
+artifact_uri: file:D:/LABMENTIX/EMI_Predict_AI/mlruns/739740598164499032/7ce2eae11e804f8b8a357d5426241f37/artifacts
+end_time: 1762959427283
+entry_point_name: ''
+experiment_id: '739740598164499032'
+lifecycle_stage: active
+run_id: 7ce2eae11e804f8b8a357d5426241f37
+run_name: Classification_Logistic Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762959406235
+status: 3
+tags: []
+user_id: admin

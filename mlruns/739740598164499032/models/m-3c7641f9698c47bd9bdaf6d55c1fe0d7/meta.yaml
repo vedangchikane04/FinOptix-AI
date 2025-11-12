@@ -1,0 +1,10 @@
+artifact_location: file:D:/LABMENTIX/EMI_Predict_AI/mlruns/739740598164499032/models/m-3c7641f9698c47bd9bdaf6d55c1fe0d7/artifacts
+creation_timestamp: 1762959472293
+experiment_id: '739740598164499032'
+last_updated_timestamp: 1762959477061
+model_id: m-3c7641f9698c47bd9bdaf6d55c1fe0d7
+model_type: null
+name: regression_linear_regression
+source_run_id: 2b08729ce65f4a6cac4eb8a54604589f
+status: 2
+status_message: null

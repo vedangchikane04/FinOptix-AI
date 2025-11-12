@@ -1,0 +1,22 @@
+artifact_path: file:D:/LABMENTIX/Finoptix_AI/mlruns/243064382643128006/models/m-b2e275005b604ef6a320ce0af63e589a/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.6.0
+model_id: m-b2e275005b604ef6a320ce0af63e589a
+model_size_bytes: 570604
+model_uuid: m-b2e275005b604ef6a320ce0af63e589a
+prompts: null
+run_id: 8bde4a5fcf1f492d9437e70ff76dc22c
+utc_time_created: '2025-11-12 15:42:34.846245'

@@ -1,0 +1,10 @@
+artifact_location: file:D:/LABMENTIX/EMI_Predict_AI/mlruns/739740598164499032/models/m-4e71758b671047b68e4ba5eabf0d493a/artifacts
+creation_timestamp: 1762959456798
+experiment_id: '739740598164499032'
+last_updated_timestamp: 1762959462052
+model_id: m-4e71758b671047b68e4ba5eabf0d493a
+model_type: null
+name: classification_random_forest
+source_run_id: 26b47ca501484895a63bf5d26b5af66e
+status: 2
+status_message: null

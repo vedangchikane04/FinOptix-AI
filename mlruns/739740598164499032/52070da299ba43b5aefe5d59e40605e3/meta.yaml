@@ -1,0 +1,14 @@
+artifact_uri: file:D:/LABMENTIX/EMI_Predict_AI/mlruns/739740598164499032/52070da299ba43b5aefe5d59e40605e3/artifacts
+end_time: 1762959619856
+entry_point_name: ''
+experiment_id: '739740598164499032'
+lifecycle_stage: active
+run_id: 52070da299ba43b5aefe5d59e40605e3
+run_name: Regression_XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762959610320
+status: 3
+tags: []
+user_id: admin

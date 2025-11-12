@@ -1,0 +1,14 @@
+artifact_uri: file:D:/LABMENTIX/EMI_Predict_AI/mlruns/254778335269009417/3c846df5a1084e0c9171b9a0ccf05920/artifacts
+end_time: 1762958363950
+entry_point_name: ''
+experiment_id: '254778335269009417'
+lifecycle_stage: active
+run_id: 3c846df5a1084e0c9171b9a0ccf05920
+run_name: Classification_XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762958349277
+status: 3
+tags: []
+user_id: admin

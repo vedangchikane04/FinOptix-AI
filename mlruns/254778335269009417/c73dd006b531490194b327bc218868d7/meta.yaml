@@ -1,0 +1,14 @@
+artifact_uri: file:D:/LABMENTIX/EMI_Predict_AI/mlruns/254778335269009417/c73dd006b531490194b327bc218868d7/artifacts
+end_time: 1762958478249
+entry_point_name: ''
+experiment_id: '254778335269009417'
+lifecycle_stage: active
+run_id: c73dd006b531490194b327bc218868d7
+run_name: Regression_Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762958363985
+status: 3
+tags: []
+user_id: admin

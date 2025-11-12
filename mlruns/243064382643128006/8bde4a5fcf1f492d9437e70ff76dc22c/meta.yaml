@@ -1,0 +1,14 @@
+artifact_uri: file:D:/LABMENTIX/Finoptix_AI/mlruns/243064382643128006/8bde4a5fcf1f492d9437e70ff76dc22c/artifacts
+end_time: 1762962162120
+entry_point_name: ''
+experiment_id: '243064382643128006'
+lifecycle_stage: active
+run_id: 8bde4a5fcf1f492d9437e70ff76dc22c
+run_name: Classification_SVM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762961986589
+status: 3
+tags: []
+user_id: admin
